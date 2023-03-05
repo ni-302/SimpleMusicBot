@@ -1,4 +1,4 @@
-# SimpleDiscordMusicBot
+# SimpleMusicBot
  
 pycordを用いた非常にシンプルな音楽botです。<br>
 プログラミングを習うにあたり、プログラミングに慣れるために作成しました。<br>
