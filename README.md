@@ -1,0 +1,2 @@
+# SimpleMusicBot
+discord向けのシンプルなMusicBot
